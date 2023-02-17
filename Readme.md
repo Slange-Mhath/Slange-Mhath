@@ -1,6 +1,6 @@
 ![Hey there, I'm Sebastian. I'm a Software Engineer.](https://github.com/Slange-Mhath/Slange-Mhath/raw/main/github-header-image-me.png)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/BastiiLange?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/BastiiLange) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/Slange-Mhath) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/Slange-Mhath)
+[![Twitter Followers](https://img.shields.io/twitter/follow/BastiiLange?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/BastiiLange) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/Slange-Mhath?logo=GitHub&style=for-the-badge)](https://github.com/Slange-Mhath) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/Slange-Mhath?logo=github&style=for-the-badge)](https://github.com/Slange-Mhath)
 
 # 👋 &nbsp;Hi there
 
