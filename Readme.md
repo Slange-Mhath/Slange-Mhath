@@ -7,7 +7,7 @@
 I'm a Software Engineer happily stranded in the United Kingdom. I enjoy writing reliable and reusable open-source code, aiming to have a positive impact on the world. I love to learn new things and thrive on new challenges, which is why I am spending half of my free time keeping up with modern tools and frameworks.
 The other half I spend on the water 🚣‍♂️.
 
-You can find me on Twitter [@BastiiLange](https://twitter.com/BastiiLange). Feel free to get in touch.
+Feel free to get in touch. You can find me on Twitter [@BastiiLange](https://twitter.com/BastiiLange).
 
 &nbsp;
 
