@@ -8,7 +8,7 @@ I'm a Software Engineer happily stranded in the United Kingdom. I enjoy writing 
 The other half I spend on the water 🚣‍♂️.
 You can find me on Twitter [@BastiiLange](https://twitter.com/BastiiLange). Feel free to get in touch.
 
-&nbsp;#012044#DFB106
+&nbsp;
 
 ## 🧰 &nbsp;My current toolbox
 
